@@ -69,8 +69,8 @@ pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 After running the notebook, you will obtain:
 
 - Model training & validation loss curves
-  <img width="877" height="493" alt="image" src="https://github.com/user-attachments/assets/0af100e4-10f4-4db7-97d9-a2d82a874033" />
-  
+  <img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/f7c2c41f-15e7-41fa-88e2-f882bf70c9c0" />
+
 - Predicted vs. Actual price comparison plots
   <img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/5fe3e840-18b1-482e-afa9-021a832d0997" />
 
