@@ -68,15 +68,21 @@ pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 
 After running the notebook, you will obtain:
 
-- Model training & validation loss curves  
-- Predicted vs. Actual price comparison plots  
-- Evaluation metrics (MAE, RMSE)  
+- Model training & validation loss curves
+  <img width="877" height="493" alt="image" src="https://github.com/user-attachments/assets/0af100e4-10f4-4db7-97d9-a2d82a874033" />
+  
+- Predicted vs. Actual price comparison plots
+  <img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/5fe3e840-18b1-482e-afa9-021a832d0997" />
+
+- Evaluation metrics (MAE, RMSE)
+  <img width="1160" height="547" alt="image" src="https://github.com/user-attachments/assets/ca32c3ac-b09a-4d61-bee5-0819280ccc5d" />
+
 - Saved model files inside the `models/` directory  
 
 Example structure:
 ```
 .
-├── 26c56c99-1637-4f8e-8dc0-d8fb28e2748a.ipynb   # Main notebook
+├── Stock Price Prediction using LSTM.ipynb   # Main notebook
 ├── models/                                     # Directory for saved models
 └── README.md                                   # Project documentation
 ```
